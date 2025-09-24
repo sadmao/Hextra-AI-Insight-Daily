@@ -2,119 +2,128 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-09/2025-09-23
-description: Your daily source for curated AI news, practical tools, and actionable
-  tutorials to master Artificial Intelligence;
+next: /2025-09/2025-09-23
+description: "个人每日整理的AI资讯站。我们为您过滤信息噪音，只提供最精选的AI新闻、最实用的AI工具与AI教程，助您高效获取人工智能领域的前沿动态"
 cascade:
   type: docs
 ---
-## AI News Daily 2025/9/24
 
-> `AI Insights` | `Daily Briefing` | `Aggregated Web Data` | `Cutting-Edge Science` | `Industry Voices` | `Open Source Innovation` | `AI & Human Future` | [Visit Web Version↗️](https://ai.hubtoday.app/) | [Join Group Chat🤙](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/main/docs/images/wechat.png)
+## AI资讯日报 2025/9/24
 
-### **Today's Rundown**
+>  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/main/docs/images/wechat.png)
+
+
+
+### **今日摘要**
 
 ```
-DingTalk rolls out its AI Table Assistant to empower business users, while Meitu Xiuxiu is launching a conversational AI assistant.
-Kimi explores an Agent membership business model, and OpenAI teams up with NVIDIA in a massive investment partnership.
-Cutting-edge research reveals that sophisticated small models can outperform large models in specific multimodal tasks.
-Meanwhile, the public's considerations for AI fairness are more complex than experts', demanding higher ethical standards for AI.
-Issues like AI-generated "workslop" reducing efficiency and user data being used for training are also sparking widespread debate.
+钉钉推出AI表格助理赋能业务人员，美图秀秀将上线对话式AI助手。
+Kimi探索Agent会员商业模式，而OpenAI与NVIDIA则达成巨额投资合作。
+前沿研究显示，精巧的小模型在特定多模态任务上性能可超越大模型。
+同时，公众对AI公平性的考量比专家更复杂，也对AI伦理提出更高要求。
+AI生成的工作垃圾降低效率及用户数据被用于训练等问题亦引发广泛讨论。
 ```
 
-### Product & Feature Updates
 
-1.  **DingTalk** just dropped its **AI Table Assistant**, aiming to transform ordinary spreadsheets into enterprise-grade AI application creation platforms ✨. Now, you can simply describe your needs in a sentence, and AI will automatically generate tables, configure workflows, and even data dashboards. This means business users, even those without coding skills, can effortlessly build AI applications. This move signals DingTalk's shift from a mere collaboration tool to an [AI application building platform for everyone (AI News)](https://www.aibase.com/zh/news/21496), ready to supercharge productivity! 🔥
 
-2.  **Meitu Xiuxiu** announced that its new **AI Smart Assistant** is hitting the market in late September. This bad boy is set to totally revolutionize traditional tool-based photo editing, transforming it into a conversational Agent service 🤖. Meitu's financial report shows its product **AI penetration has already hit a whopping 90%**, proving they're way past being a simple one-click beauty app. They're aiming to be your go-to AI image creative director, right in your pocket. This move is seen as a key step for Meitu in using [AI technology to reshape industry interaction methods (AI News)](https://www.aibase.com/zh/news/21494), making photo editing a spoken command rather than a manual chore 🤔.
+### 产品与功能更新
 
-3.  **Kimi** quietly launched its **Agent Membership Service**, giving different member tiers names inspired by music tempo terms – pretty artsy, right? 🎶 Free users (Adagio) get all core conversational features, no strings attached. But paid members (Andante, Moderato) unlock more access to **in-depth Agent research** usage quotas, specifically tailored for users who need serious data digging. This [exploratory commercialization model (AI News)](https://x.com/op7418/status/1970364824078197142) not only offers existing users cool rewards like tipping offsets but also showcases how domestic large models are cleverly balancing free and value-added services. Smart! (✧∀✧)
-<br/>![AI News: Kimi's Agent Membership Service](https://source.hubtoday.app/images/2025/09/news_01k5vt43b8fbfafb5skkcx246v.avif)<br/>![Kimi Membership Tier Introduction](https://source.hubtoday.app/images/2025/09/news_01k5vt49f9fzet022bv7shyjsj.avif)<br/>
+1.  钉钉正式推出了 **AI表格助理**，誓要将平平无奇的表格变成企业级的AI应用创建平台 (o´ω'o)ﾉ。现在，你只需用一句话描述需求，AI就能自动为你生成表格、配置工作流乃至数据仪表盘，让不懂代码的业务人员也能轻松创造AI应用。这标志着钉钉正从协同工具向一个[人人可用的AI应用搭建平台（AI资讯）](https://www.aibase.com/zh/news/21496)迈进，生产力即将爆表 🔥。
 
-4.  From YC, the **Klavis AI team** just rolled out **Strata**, an open-source project featuring a clever **MCP (Multi-Capability Provider) server**. This bad boy is designed to tackle the "choice overload" AI agents face when dealing with thousands of tools (¬_¬). Instead of traditional methods that throw all APIs at once, Strata uses progressive guidance, allowing AI to incrementally discover the tools it needs based on context. This significantly boosts AI agents' accuracy and efficiency in complex tasks. This [interaction method simulating human thought (AI News)](https://news.ycombinator.com/item?id=45347914) promises to let AI truly master complex applications like GitHub and Jira, which are packed with tons of features 🚀.
+2.  美图秀秀宣布将在九月下旬上线全新的 **AI智能助手**，旨在将传统的工具式修图彻底革新为对话式的Agent服务 🤖。美图财报显示其产品 **AI渗透率已高达90%**，这表明他们早已不是那个只会一键美颜的傻瓜软件，而是要成为你口袋里的AI影像创意总监。此举被视为美图利用[AI技术重塑行业交互方式的（AI资讯）](https://www.aibase.com/zh/news/21494)关键一步，未来P图或许动口不动手 🤔。
+
+3.  Kimi悄然上线了 **Agent会员服务**，用音乐节拍术语为不同等级的会员命名，充满了文艺气息 🎶。免费用户（Adagio）的核心对话功能不受影响，而付费会员（Andante、Moderato）则能获得更多 **深度研究Agent** 的使用额度，专为需要深度信息挖掘的用户设计。这一[探索性的商业化模式（AI资讯）](https://x.com/op7418/status/1970364824078197142)不仅为老用户提供了打赏抵扣福利，也展示了国内大模型在平衡免费与增值服务上的巧妙思考 (✧∀✧)。
+<br/>![AI资讯：Kimi的Agent会员服务](https://source.hubtoday.app/images/2025/09/news_01k5vt43b8fbfafb5skkcx246v.avif)<br/>![Kimi会员等级介绍](https://source.hubtoday.app/images/2025/09/news_01k5vt49f9fzet022bv7shyjsj.avif)<br/>
+
+4.  来自YC的Klavis AI团队推出了开源项目 **Strata**，一个聪明的 **MCP（多能力提供者）服务器**，专门解决AI代理面对成千上万工具时的"选择困难症” (¬_¬)。它不像传统方式那样一股脑展示所有API，而是通过渐进式引导，让AI根据上下文逐层发现所需工具，极大提升了AI代理在复杂任务中的准确率和效率。这种[模拟人类思维的交互方式（AI资讯）](https://news.ycombinator.com/item?id=45347914)，有望让AI能真正驾驭GitHub、Jira这类拥有海量功能的复杂应用 🚀。
 <br/><video src="https://source.hubtoday.app/images/2025/09/news_01k5vt4v6wefet5ne9vv3fm0fj.mp4" controls="controls" width="100%"></video><br/>
 
-### Frontier Research
+### 前沿研究
 
-1.  The technical report for the 8B parameter **MiniCPM-V 4.5** model just dropped, and it's a real underdog story: a "little guy" going head-to-head with the "big shots" 🥊. Thanks to innovative **3D-Resampler architecture** and a unified OCR and knowledge learning paradigm, it actually outperforms GPT-4o and the 72B Qwen2.5-VL on several multimodal tasks, all while keeping inference costs super low. This [detailed technical report (AI News)](https://github.com/OpenBMB/MiniCPM-V/blob/main/docs/MiniCPM_V_4_5_Technical_Report.pdf) proves that bigger isn't always better; smart architectural design is the key to high-performance AI 💡. You can check out [this codebase for more info (AI News)](https://github.com/OpenBMB/MiniCPM-o).
-<br/>![AI News: MiniCPM-V 4.5 Multimodal Model Architecture](https://source.hubtoday.app/images/2025/09/news_01k5vt5a2xf2nad697dmdmzjxk.avif)<br/>
+1.  8B参数的 **MiniCPM-V 4.5** 模型技术报告正式发布，上演了一场"小个子硬刚大块头”的精彩好戏 🥊。通过创新的 **3D-Resampler架构**、统一的OCR与知识学习范式等黑科技，它在多项多模态任务上甚至超越了GPT-4o和72B的Qwen2.5-VL，同时推理开销却极低。这份[详细的技术报告（AI资讯）](https://github.com/OpenBMB/MiniCPM-V/blob/main/docs/MiniCPM_V_4_5_Technical_Report.pdf)证明了，模型并非越大越好，精巧的架构设计才是通往高效能AI的钥匙 💡，你可以在[这个代码库查看更多信息（AI资讯）](https://github.com/OpenBMB/MiniCPM-o)。
+<br/>![AI资讯：MiniCPM-V 4.5多模态模型架构](https://source.hubtoday.app/images/2025/09/news_01k5vt5a2xf2nad697dmdmzjxk.avif)<br/>
 
-2.  **AI's "fairness"**: Who actually gets to define it? A [latest research paper (AI News)](https://arxiv.org/abs/2509.17956) spills the tea, revealing that regular folks, who aren't AI experts, consider **AI fairness** way more complex and rigorous than the pros 🤔. The study found that when placed in decision-maker roles, ordinary people look at a broader range of characteristics, push for stricter fairness thresholds, and even tend to design custom fairness solutions instead of just slapping on standard formulas. This research strongly suggests that AI governance shouldn't just be a closed-door meeting for tech gurus; incorporating the "common sense wisdom" of stakeholders is absolutely crucial (o･ω･o).
+2.  AI的"公平”该由谁定义？一篇[最新研究论文（AI资讯）](https://arxiv.org/abs/2509.17956)揭示，非AI专业的普通人对 **AI公平性** 的考量远比专家们复杂和严格 🤔。研究发现，当被置于决策者角色时，普通人会考虑更广泛的特征、主张更严格的公平阈值，甚至倾向于设计定制化的公平方案，而不是套用标准公式。这项研究有力地说明，AI治理不能仅仅是技术专家的闭门会议，融入利益相关者的"常识性智慧”至关重要 (o･ω･o)。
 
-3.  Can small language models actually mend broken hearts? Some [research findings show (AI News)](https://arxiv.org/abs/2505.15065) that small models, with parameters between 0.5B and 5B, can generate empathetic conversations almost on par with humans, especially when carefully fine-tuned for **Post-Traumatic Stress Disorder (PTSD)** (´｡• ω •｡`). The researchers even created a dedicated dataset called **TIDE** to back this up. This proves it's totally possible to build resource-friendly, emotionally intelligent mental health support systems, paving a new path for AI in the mental wellness arena.
+3.  小型语言模型也能拥有治愈人心的力量吗？一项关于 **创伤后应激障碍（PTSD）** 的[研究成果显示（AI资讯）](https://arxiv.org/abs/2505.15065)，参数量在0.5B到5B之间的小模型，经过精心微调后，在生成共情对话方面的表现竟能接近人类水平 (´｡• ω •｡`)。研究者们为此还推出了一个名为 **TIDE** 的专用数据集，证明了构建资源友好型、具备情感智能的心理健康支持系统是完全可行的，为AI在心理健康领域的应用开辟了新路径。
 
-### Industry Outlook & Social Impact
+### 行业展望与社会影响
 
-1.  **OpenAI and NVIDIA** just announced a strategic partnership that's basically the "wedding of the century" in the AI world 🤝. OpenAI is set to snap up millions of GPUs and score a colossal **$100 billion** investment from NVIDIA. This deal's computing power is almost equivalent to NVIDIA's entire 2025 annual output, signaling that OpenAI is on a wild "stockpiling" spree for an unprecedented AI infrastructure. [This bombshell news (AI News)](https://openai.com/index/openai-nvidia-systems-partnership/) doesn't just solidify the alliance between these two giants; it also kicks the industry's compute arms race into overdrive 🔥.
+1.  OpenAI与NVIDIA宣布达成战略合作，前者将采购数百万计的GPU，并获得后者高达 **1000亿美元** 的投资，堪称AI界的"世纪联姻” 🤝。这笔交易的算力规模，几乎相当于NVIDIA在2025年全年的出货量总和，预示着OpenAI正在为构建前所未有的AI基础设施疯狂"囤货”。[这则重磅消息（AI资讯）](https://openai.com/index/openai-nvidia-systems-partnership/)不仅巩固了两家公司的联盟，也让整个行业的算力军备竞赛进入了白热化阶段 🔥。
 
-2.  **Sam Altman** is at it again, painting another grand picture of the future: as AI gets more powerful, **access to AI will become a fundamental human right** 🏛️. To make this "right" a reality, he's talking about expanding computing infrastructure at a mind-boggling pace, even envisioning "compute factories" capable of pumping out thousands of megawatts of AI compute weekly. [This vision (AI News)](https://www.reddit.com/r/artificial/comments/1noir9v/sam_altmans_vision_for_a_future_where_ai/) stems from his deep concern about solving the severe compute shortage, believing we shouldn't have to choose between "curing cancer" and "democratizing education," but rather have enough compute to achieve both simultaneously.
+2.  Sam Altman再次描绘了他对未来的宏大构想：随着AI能力越来越强，**获取AI将成为一项基本人权** 🏛️。为了满足这一"权利”，他提出需要以惊人的速度扩大算力基础设施，甚至设想建立每周能产出数千兆瓦AI算力的"算力工厂”。[这一愿景（AI资讯）](https://www.reddit.com/r/artificial/comments/1noir9v/sam_altmans_vision_for_a_future_where_ai/)背后，是他对解决算力严重短缺问题的深刻忧虑，他认为我们不应在"治愈癌症”和"普及教育”之间做痛苦的抉择，而是应该拥有足够的算力去同时实现它们。
 
-3.  Heads up! Your LinkedIn profile might soon become "AI fodder"! **LinkedIn** just announced it'll be using European user data to train its AI models starting November 3, 2025, citing "legitimate interests" as its legal basis (눈_눈). While they've offered an opt-out option, this move once again throws tech giants' data hunger and users' privacy rights into the spotlight, sparking [widespread discussion about data boundaries (AI News)](https://readhacker.news/s/6C94j).
+3.  注意，你的领英资料可能很快就要成为AI的"养料”了！LinkedIn宣布将于2025年11月3日起，利用欧洲用户数据训练其AI模型，并以"**合法权益**”为法律依据 (눈_눈)。尽管官方提供了退出选项，但这波操作再次将科技巨头的数据需求与用户的隐私权推向了风口浪尖，引发了[关于数据边界的广泛讨论（AI资讯）](https://readhacker.news/s/6C94j)。
 
-4.  Using AI tools like crazy, but your company's ROI is stuck in neutral? Watch out, you might be mass-producing "**Workslop**" 🗑️. This new term refers to those AI-generated outputs that look polished but are utterly devoid of real substance. They cleverly punt the thinking work that creators should be doing onto reviewing colleagues. This [Reddit's hot topic view (AI News)](https://www.reddit.com/r/artificial/comments/1noe5h3/aigenerated_workslop_is_destroying_productivity/) hits the nail on the head, pointing out that AI shouldn't be an excuse for sophisticated laziness, or else team collaboration efficiency will only plummet instead of soar.
+4.  AI工具用得飞起，公司ROI却原地踏步？小心，你可能正在量产"**工作垃圾** (Workslop)” 🗑️。这个新词指的是那些看起来精美但毫无实质内容的AI生成物，它们将本该由创作者完成的思考工作，巧妙地甩锅给了审阅的同事。这个在[Reddit引发热议的观点（AI资讯）](https://www.reddit.com/r/artificial/comments/1noe5h3/aigenerated_workslop_is_destroying_productivity/)一针见血地指出，AI不应成为精致的懒惰的借口，否则只会让团队协作效率不升反降。
 
-### Open Source TOP Projects
+### 开源TOP项目
 
-1.  **Qwen-Image-Edit**, Tongyi Qianwen's open-source image editing model, just got a massive update – it's basically a magic brush for creators and designers! 🖌️ The new version now supports **multi-image editing**, cleverly blending characters with scenes, and maintaining consistency for portraits and products during edits, plus its text handling capabilities are way better. What's even cooler is that it comes with three **ControlNet** models built-in, making pixel-level precision possible. Say goodbye to creative limits! 🔥
-<br/>![Qwen-Image-Edit Multi-image Editing Example](https://source.hubtoday.app/images/2025/09/news_01k5vt5qqdfxnt2e28e2k0cgmy.avif)<br/>![Qwen-Image-Edit Portrait Consistency Display](https://source.hubtoday.app/images/2025/09/news_01k5vt5zh0exqrharkcxpntb0e.avif)<br/>
+1.  通义千问的开源图像编辑模型 **Qwen-Image-Edit** 迎来重磅更新，简直是为创作者和设计师量身打造的"神笔马良” 🖌️。新版本不仅支持了 **多图编辑**，能巧妙融合人物与场景，还能在编辑时保持人像和产品的一致性，文字处理能力也大幅增强。更厉害的是，它内置了三个 **ControlNet** 模型，让像素级的精准控制成为可能，创意从此不再受限 🔥。
+<br/>![Qwen-Image-Edit多图编辑示例](https://source.hubtoday.app/images/2025/09/news_01k5vt5qqdfxnt2e28e2k0cgmy.avif)<br/>![Qwen-Image-Edit人像一致性展示](https://source.hubtoday.app/images/2025/09/news_01k5vt5zh0exqrharkcxpntb0e.avif)<br/>
 
-2.  When it comes to downloading videos from YouTube and other sites, there's one name you absolutely know: the legendary command-line program, **youtube-dl**. This [project (click to view)](https://github.com/ytdl-org/youtube-dl), boasting a whopping ⭐137.9k stars on GitHub, is the Swiss Army knife for countless developers and data enthusiasts, supporting virtually every video site you can think of. Its power and stability have cemented its place as an indelible cultural icon in the open-source world (￣▽￣)~*.
+2.  说到从油管等网站下载视频，有一个名字你不可能不知道，那就是传奇的命令行程序 **youtube-dl**。这个在GitHub上坐拥 ⭐137.9k 星标的[项目（点击查看）](https://github.com/ytdl-org/youtube-dl)，是无数开发者和数据爱好者的瑞士军刀，几乎支持你能想到的所有视频网站。它的强大与稳定，使其成为了开源世界中一个不可磨灭的文化符号 (￣▽￣)~*。
 
-3.  Ever dreamed of having a truly smart companion in Minecraft, instead of just those clumsy zombies? Well, the **mindcraft** project might just make that dream come true 🧱. This [interesting project (click to view)](https://github.com/mindcraft-bots/mindcraft), which has racked up ⭐4.1k stars, is injecting real "soul" into the pixelated world using Large Language Models (LLMs) and Mineflayer. Imagine a future where your companion doesn't just help you mine, but can also engage in philosophical conversations with you. How cool is that? (✧∀✧)
+3.  如果你曾梦想在《我的世界》里拥有一个真正智能的伙伴，而不是只会横冲直撞的僵尸，那么 **mindcraft** 项目或许能让你梦想成真 🧱。这个收获了 ⭐4.1k 星标的[有趣项目（点击查看）](https://github.com/mindcraft-bots/mindcraft)，利用大语言模型（LLMs）和Mineflayer，正在为这个像素世界注入真正的"灵魂”。想象一下，未来你的伙伴不仅能帮你挖矿，还能与你进行富有哲理的对话，是不是很酷？(✧∀✧)
 
-4.  Still stressing out about prepping for tech interviews? This **tech-interview-handbook**, which has scooped up a massive ⭐130.2k stars on GitHub, is your "lifeline" to landing a gig at a big tech company 🚀. It meticulously organizes all the core interview knowledge points for busy software engineers, covering everything from algorithms to system design. It's basically the "encyclopedia of interviewing." With this [handbook (click to view)](https://github.com/yangshun/tech-interview-handbook) in hand, even with tight deadlines, you'll stride into that interview room brimming with confidence.
+4.  还在为准备技术面试而焦头烂额吗？这份在GitHub上狂揽 ⭐130.2k 星标的 **tech-interview-handbook** 就是你上岸大厂的"救命稻草” 🚀。它为忙碌的软件工程师们精心整理了所有面试核心知识点，从算法到系统设计应有尽有，堪称"面试界的百科全书”。有了这份[宝典（点击查看）](https://github.com/yangshun/tech-interview-handbook)，即使时间再紧，也能让你自信满满地走进考场。
 
-5.  In an era flooded with AI drawing tools, **Fooocus** takes a different path, bringing the spotlight back to two core elements: prompts and generation quality. This [tool (click to view)](https://github.com/lllyasviel/Fooocus), with its minimalist design yet powerful features, has already attracted ⭐46.6k stars. It lets you skip the hassle of learning complex parameters and simply focus on the creative act itself. For users who just want to purely enjoy the joy of creation, Fooocus is undoubtedly one of the most elegant solutions out there 💡.
+5.  在AI绘画工具层出不穷的今天，**Fooocus** 另辟蹊径，将焦点回归到最核心的两件事：提示词与生成质量。这个设计极简却功能强大的[工具（点击查看）](https://github.com/lllyasviel/Fooocus)已经吸引了 ⭐46.6k 的星标，它让你无需学习复杂的参数，只需专注于创意本身。对于那些只想纯粹享受创作乐趣的用户来说，Fooocus无疑是目前最优雅的解决方案之一 💡。
 
-### Social Media Shares
+### 社媒分享
 
-1.  How do you tell if an AI startup is just a "fly-by-night operation" or a "potential powerhouse"? A [deep dive by an entrepreneur (AI News)](https://x.com/Yangyixxxx/status/1970516868235698354) gives us the answer: real AI companies champion an "AI First" culture from day one, build evaluation systems, and deeply ponder Agent frameworks 🧐. They pick professional users who provide high-quality feedback and tackle complex scenarios where "base models struggle, but Agents shine," thereby building up true core assets. In contrast, teams just chasing trends and lacking long-term vision might end up being a flash in the pan.
+1.  如何分辨一家AI创业公司是"草台班子”还是"潜力股”？一位[创业者的深度思考（AI资讯）](https://x.com/Yangyixxxx/status/1970516868235698354)给出了答案：真正的AI公司从第一天起就倡导AI First文化、构建评估系统、并深入思考Agent框架 🧐。他们会选择能提供高质量反馈的专业用户，并挑战那些"基模干不好，但Agent能干好”的复杂场景，从而沉淀下真正的核心资产。相比之下，那些只追风口、缺乏长期思考的团队，最终可能只会昙花一现。
 
-2.  **GitHub** itself just dropped a list of **39 commonly used MCP (Multi-Capability Provider) projects**, which is basically a godsend for Agent developers (o´ω'o)ﾉ. This curated list features everything from the web scraping tool Firecrawl to the data processing powerhouse Elasticsearch, and many other practical projects, so you won't get lost building your AI Agent anymore. Go ahead and [collect this official recommendation (AI News)](https://m.okjike.com/originalPosts/68d1fe25282c7bf8e7656689) to make your AI application development a breeze!
-<br/>![AI News: GitHub Official Curated MCP Projects](https://cdnv2.ruguoapp.com/Fl7GYyHsEhYtF0010wCNK45Pfi8yv3.png)<br/>
+2.  GitHub官方亲自下场，为你整理了一份包含 **39个常用MCP（多能力提供者）** 的项目清单，堪称Agent开发者的福音 (o´ω'o)ﾉ。这份清单涵盖了从网页抓取工具Firecrawl到数据处理利器Elasticsearch等多个实用项目，让你在构建AI Agent时不再迷茫。快来[收藏这份官方推荐（AI资讯）](https://m.okjike.com/originalPosts/68d1fe25282c7bf8e7656689)，让你的AI应用开发事半功倍吧！
+<br/>![AI资讯：GitHub官方整理的MCP项目](https://cdnv2.ruguoapp.com/Fl7GYyHsEhYtF0010wCNK45Pfi8yv3.png)<br/>
 
-3.  Ever feel like AI-written content is always too short and lacks depth or examples? A [netizen shared a trick (AI News)](https://x.com/vista8/status/1970295603839353179) to make Gemini "gush with words": repeatedly use the "change length" feature to have the AI continuously iterate and expand 🪄. What's magical is that Gemini doesn't just "pad the word count"; it actively thinks, adds examples, and adjusts the structure, as if it has Sun Wukong's magical staff, getting longer and stronger. Google's tech here really blew many people's expectations out of the water, showcasing its powerful iterative writing capabilities!
-<br/>![AI News: Using Gemini to Expand Article Content](https://source.hubtoday.app/images/2025/09/news_01k5vt674se2ssdwa1t2gbefa3.avif)<br/>
+3.  你是否也觉得AI写的内容总是太短，缺乏深度和实例？一位[网友分享了一个（AI资讯）](https://x.com/vista8/status/1970295603839353179)让Gemini"文思泉涌”的秘诀：反复使用"更改长度”功能，让AI不断迭代扩充 🪄。神奇的是，Gemini并不会简单地"水字数”，而是会主动思考并补充案例、调整结构，仿佛拥有了孙悟空的金箍棒，越变越长，也越变越强。谷歌的这项技术确实超出了很多人的预期，展现了其强大的迭代式写作能力！
+<br/>![AI资讯：使用Gemini扩充文章内容](https://source.hubtoday.app/images/2025/09/news_01k5vt674se2ssdwa1t2gbefa3.avif)<br/>
 
-4.  "When you talk to someone offline, you're essentially prompting them." This [analogy (Source: AI News)](https://x.com/lijigang_com/status/1970368960299442301) is absolutely brilliant! It cleverly compares the complex process of human interaction to interacting with a "small model," instantly making "communication breakdown" sound super techy 🤔. Next time you encounter someone you can't quite click with, you can elegantly tell yourself: either their model is subpar, or my prompting skills still need some serious leveling up ( T_T)＼(^-^ ) ✨.
-
----
-
-## **An AI Coding Invitation**
-
-### 3 Projects in Half a Year, 90% Code by AI, Zero Cost — I'm launching a knowledge planet and will livestream my next product development.
-
-Hey everyone,
-
-For the past six months, I've been a lone wolf, heads-down, completing 3 major open-source projects. One of them, [AIClient2API ↗️](https://github.com/justlovemaki/AIClient-2-API), already boasts 1000+ Stars. The craziest part? Looking back, **over 90% of the code was AI-generated**.
-
-I didn't shell out a single penny for API fees, relying entirely on free large models like Gemini and Qwen. Nor did I pay for server rentals; platforms like Cloudflare and Vercel handled everything for me. This journey has given me a profound appreciation for how **AI is amplifying the creativity of ordinary people in unprecedented ways.**
-
-While the solo journey has been incredibly rewarding, it definitely gets a bit lonely. Those moments of hitting roadblocks, or flashes of inspiration late at night—I always wished there were fellow travelers to share and brainstorm with.
-
-So, I cooked up an idea: **to create a knowledge planet, gathering all like-minded tinkerers and creators.**
-
-This isn't a traditional course; it's a genuine co-creation community. The price point is low, just **50 RMB**, which is like us grabbing some fried chicken together on a "Crazy Thursday," making new friends, and forging a pact for mutual growth.
-
-**What will you get by joining us?**
-
-I'm gearing up to develop a **personal prompt management tool** from scratch. Once we hit 7 members, the group officially kicks off, and within the planet, I will:
-
-*   **Provide daily livestream updates**: Documenting my development progress, thought processes, and tech choices every step of the way.
-*   **Share real-time debugging stories**: Holding nothing back as I share issues encountered and bug-fixing strategies, helping you avoid common pitfalls.
-*   **Offer transparent thought processes**: From product design to technical architecture, I'll share the thinking behind every decision.
-
-Here, you can **witness a product being born, ask questions anytime, participate in discussions, and even influence its direction**. Together, we'll watch an idea grow from 0 to 1, ultimately becoming a tangible reality.
-
-If you're also passionate about AI development, and if you're curious to see how one person leverages free tools to "arm" themselves, you're welcome to join.
-
-![Knowledge Planet QR Code](https://source.hubtoday.app/logo/zsxq.jpg)
+4.  "你在线下与人交流，就是在prompt对方”，这个[比喻（来源：AI资讯）](https://x.com/lijigang_com/status/1970368960299442301)简直绝了！它巧妙地将人际交往的复杂过程，类比为与一个"小模型”的互动，瞬间让"沟通不畅”这件事变得技术范儿十足 🤔。下次再遇到聊不来的人，你就可以优雅地告诉自己：要么是对方模型不行，要么是我的Prompt技巧还有待提高 ( T_T)＼(^-^ )。
 
 ---
 
-## **AI News Daily Audio Version**
+## **一个 AI Coding 邀请函**
 
-| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
+### 半年3个项目，90%代码AI搞定，成本为0——我决定建个星球，直播我的下一个产品开发
+
+大家好，
+
+过去的半年，我像一匹独狼，埋头完成了3个主要开源项目，其中一个已有1000+ Star [AIClient2API ↗️](https://github.com/justlovemaki/AIClient-2-API)。最疯狂的是，复盘下来，**超过90%的代码都是由AI生成的**。
+
+我没有为此支付一分钱的API费用，全靠Gemini、Qwen这类免费大模型；也没有花钱租服务器，Cloudflare和Vercel这样的平台为我扛下了一切。这段经历让我深刻体会到：**AI正在以前所未有的方式，放大我们普通人的创造力。**
+
+单打独斗的旅程虽然充满了成就感，但也确实有些孤独。那些踩坑的瞬间、灵感闪现的夜晚，总希望能有同路人可以分享和交流。
+
+所以，我萌生了一个想法：**创建一个知识星球，把所有爱折騰、爱创造的同好们聚集起来。**
+
+这不是一个传统的课程，而是一个真实的共创社区。价格门槛不高，**50元**，就当是"疯狂星期四”我们一起吃顿炸鸡，交个朋友，也为彼此定下一个共同成长的契约。
+
+**加入我们，你将得到什么？**
+
+我正准备从零开始开发一款**个人提示词（Prompt）管理工具**。星球满7人正式开团，我会在星球里：
+
+*   **每日直播式更新**：全程记录我的开发进度、思考过程和技术选型。
+*   **分享踩坑实录**：毫无保留地分享遇到的问题、解决Bug的思路，让你少走弯路。
+*   **透明的思考过程**：无论是产品设计还是技术架构，我都会把背后的思考与你共享。
+
+你可以在这里**围观一个产品的诞生，随时提问、参与讨论，甚至影响它的走向**。我们一起，见证一个想法如何从0到1，最终成为一个可以握在手里的现实。
+
+如果你也对AI开发充满热情，如果你也想看看一个人如何利用免费工具"武装”自己，欢迎你的加入。
+
+![知识星球二维码](https://source.hubtoday.app/logo/zsxq.jpg)
+
+
+
+---
+
+## **AI资讯日报语音版**
+
+| 🎙️ **小宇宙** | 📹 **抖音** |
 | --- | --- |
-| [Laisheng Xiaojiuguan](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Xiaojiuguan](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+
+
+
